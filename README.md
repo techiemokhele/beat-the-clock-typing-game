@@ -10,3 +10,5 @@ Add certain amount of time after word is typed based on difficulty.
 Store difficulty setting in local storage.
 
 Preview the web app here: https://techiemokhele.github.io/beat-the-clock-typing-game/
+
+![image](https://user-images.githubusercontent.com/67394147/131591512-508ae6ee-c2a3-4d05-a287-0147502f60a1.png)
